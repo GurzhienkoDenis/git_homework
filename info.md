@@ -37,3 +37,8 @@ __полужирное начертание__
 
 
 ![These are dices!](PNG.png)
+ ___
+
+ ***
+These are horizotal rules
+ ___ 
