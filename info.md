@@ -43,6 +43,5 @@ __полужирное начертание__
 These are horizotal rules
  ___ 
 
- I like search engine [Duck Duck Go](https://duckduckgo.com) - ссылка на ресурс
+ I like search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy") - ссылка на ресурс
 
- 
