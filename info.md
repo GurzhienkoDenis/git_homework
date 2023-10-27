@@ -45,3 +45,8 @@ These are horizotal rules
 
  I like search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy") - ссылка на ресурс
 
+
+<http://duckduckgo.com>
+<antracidin@mail.com> 
+___
+быстрое создние ссылок
